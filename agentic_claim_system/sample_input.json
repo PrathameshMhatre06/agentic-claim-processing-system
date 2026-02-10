@@ -1,0 +1,15 @@
+{
+  "claim_id": "CLM10001",
+  "patient_name": "Ravi",
+  "hospital": "Fortis",
+  "claim_amount": 92000,
+  "room_type": "Single Deluxe",
+  "policy_room_limit": 8000,
+  "actual_room_cost": 10000,
+  "treatment_type": "Surgery",
+  "treatment_sub_limit": 50000,
+  "ped": "No",
+  "non_disclosure_detected": "Yes",
+  "email": "ravi@gmail.com"
+}
+
